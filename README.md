@@ -1,4 +1,4 @@
-###  👋
+
 [![코드트리|실력진단-ksun4131](https://banner.codetree.ai/v1/banner/ksun4131)](https://www.codetree.ai/profiles/ksun4131)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonSunJae&&show_icons=true&theme=dracula)]
 <!--
@@ -6,6 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Research : Openstack, K8s, Ansible, Terrafrom, SDN, Blockchain
+
 - ⚡ Fun fact : I lost my best girlfriend.
 
